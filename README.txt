@@ -5,7 +5,7 @@ DESCRIPTION
 --------------------------------------------------------------------------
 This is a game for the Android operating system called Touch the Targets.  
 Once the game starts, a single small target will appear somewhere on 
-the screen.  When the player touches the target he orshe will earn a 
+the screen.  When the player touches the target he or she will earn a 
 point, and the target will move to another location on the screen.  The 
 goal of the game is to touch as many targets as possible within 30 seconds.  
 
